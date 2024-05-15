@@ -1,4 +1,4 @@
-# 40FINGERS DNN Demo Theme for Open Content Demo templates
+# DNN Theme for Open Content Demo templates
 
 Used for [Open Content Demo Templates on Github](https://github.com/40fingers/OpenContent-Demo-Templates)
 
