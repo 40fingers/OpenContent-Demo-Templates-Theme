@@ -1,0 +1,8 @@
+/Base/node_modules
+__Skinpack/build.bat
+__Skinpack/build32.bat
+__Skinpack/copy-to-paths.xml
+__Skinpack/CreateSkinPack.targets
+__Skinpack/_Templates/Manifest.dnn
+__Skinpack/_Templates/ReleaseNotes.htm
+__Skinpack/_Templates/Skin-License.htm
